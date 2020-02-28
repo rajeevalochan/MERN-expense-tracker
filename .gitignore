@@ -1,0 +1,7 @@
+#Client dependencies
+client/node_modules
+#Server dependencies 
+server/node_modules
+
+#config folders
+config
